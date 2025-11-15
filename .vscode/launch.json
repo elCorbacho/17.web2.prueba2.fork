@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Eva2Application<eva2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "eva2.eva2.Eva2Application",
+            "projectName": "eva2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
