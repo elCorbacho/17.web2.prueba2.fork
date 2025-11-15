@@ -1,4 +1,4 @@
-# 🍽️ Sistema de Reservas - Sabor Gourmet MAIN BRANCH
+# 🍽️ Sistema de Reservas - Sabor Gourmet RAMA COMPONENT
 
 
 ## ✨ Características Principales
